@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca30296a-c0c0-464e-bc2e-cfac1543339e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQYHUOWjI7g5O1iPYEupMwpANS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image_To_Text/manage.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Image_To_Text/testapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Image_To_Text" type="PythonConfigurationType" factoryName="Python">
+      <module name="Image_To_Text" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image_To_Text" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_To_Text/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca30296a-c0c0-464e-bc2e-cfac1543339e" name="Default Changelist" comment="" />
+      <created>1584772696889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584772696889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="800" height="677" key="#Notifications" timestamp="1584774201578">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Notifications/0.27.1920.1053@0.27.1920.1053" timestamp="1584774201578" />
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584773748835">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584773748835" />
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584773743383">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584773743383" />
+    <state width="1897" height="343" key="GridCell.Tab.0.bottom" timestamp="1584778160990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160990" />
+    <state width="1897" height="343" key="GridCell.Tab.0.center" timestamp="1584778160989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160989" />
+    <state width="1897" height="343" key="GridCell.Tab.0.left" timestamp="1584778160989">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160989" />
+    <state width="1897" height="343" key="GridCell.Tab.0.right" timestamp="1584778160990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160990" />
+    <state width="1897" height="343" key="GridCell.Tab.1.bottom" timestamp="1584778160996">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160996" />
+    <state width="1897" height="343" key="GridCell.Tab.1.center" timestamp="1584778160994">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160994" />
+    <state width="1897" height="343" key="GridCell.Tab.1.left" timestamp="1584778160991">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160991" />
+    <state width="1897" height="343" key="GridCell.Tab.1.right" timestamp="1584778160995">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1897" height="343" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584778160995" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1584777978253">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1584777978253" />
+  </component>
+</project>
